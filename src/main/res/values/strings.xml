@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ponto</string>
+    <string name="almoco">Almoco</string>
+    <string name="entrada">Entrada</string>
+    <string name="saida">Saida</string>
+    <string name="lista">Lista</string>
+    <string name="exportar">Exportar</string>
+    <string name="fim_almoco">Fim do Almoço</string>
+
+</resources>
